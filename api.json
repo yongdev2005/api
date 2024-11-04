@@ -1,0 +1,14 @@
+{
+    "clientVersionCode": 1,
+    "clientSampVersionCode": 1,
+    "gameFilesVersionCode": 1,
+    "URL_GAME_FILES" : "https://download1339.mediafire.com/sa4efecp96igvOVgcj2r-A-Q85vu_H9scTjxR1FFnLC71dr7U7RiuANcobWISfySq6jxpeBt_IeCI08SgfLfK8YKqki7Bti8KZDre1dOsAFa-dJldP5j8uExbuFQHLjJvHQLT4cDcWCQjayyabV4GvbUo-l_-KRd2n1bBAk5grZugQ/qxubxgit1w3p3ph/game.rar",
+    "URL_GAME_FILES_UPD" : "http://127.0.0.1:8080/files_upd.zip",
+    "URL_VK": "https://vk.com/",
+    "URL_DISCORD": "https://discord.gg/",
+    "URL_YOUTUBE": "",
+    "URL_FORUM": "",
+    "URL_DONATE": "",
+    "URL_CLIENT": "http://127.0.0.1:8080/launcher.apk",
+    "URL_CLIENTSAMPAPK": "http://127.0.0.1:8080/client.apk"
+}
